@@ -1,0 +1,14 @@
+[
+  {
+    "key": "TEST-KEY-123",
+    "expiryDate": "2025-12-31"
+  },
+  {
+    "key": "PRO-USER-456",
+    "expiryDate": "2026-06-15"
+  },
+  {
+    "key": "EXPIRED-KEY-789",
+    "expiryDate": "2024-01-01"
+  }
+]
